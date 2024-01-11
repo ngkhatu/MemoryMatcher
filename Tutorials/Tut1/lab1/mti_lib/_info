@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/afs/unity.ncsu.edu/users/n/ngkhatu/ECE520/Tutorials/Tut1/lab1
+vcounter
+Z1 !s100 8ffcKCn:KjUhLN5A@HfTc3
+Z2 I8ffcKCn:KjUhLN5A@HfTc3
+Z3 VgIBQifEOJJC4d0=L2=::k0
+Z4 d/afs/unity.ncsu.edu/users/n/ngkhatu/ECE520/Tutorials/Tut1/lab1
+Z5 w1338053780
+Z6 8counter.v
+Z7 Fcounter.v
+L0 18
+Z8 OE;L;10.0c;49
+r1
+!s85 0
+31
+Z9 !s108 1341859605.818772
+Z10 !s107 test.v|counter.v|
+Z11 !s90 counter.v|test.v|
+vtest_fixture
+Z12 !s100 0:gl`YTS_mZKC];_G`:D32
+Z13 I0:gl`YTS_mZKC];_G`:D32
+Z14 VQ_I2T6bP2He_K6BUHPT8P2
+R4
+Z15 w1339118925
+Z16 8test.v
+Z17 Ftest.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11

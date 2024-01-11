@@ -1,0 +1,16 @@
+# //  ModelSim SE 10.0c Jul 21 2011 Linux 2.6.32-220.17.1.el6.x86_64
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -novopt test_fixture 
+# Loading work.test_fixture
+# Loading work.counter
+#  
+log -r *
+run 50ns
+run 50ns
